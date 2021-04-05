@@ -2,7 +2,7 @@
 
 1. StackOverflow_data_analysis
 
-Use Frequent Pattern Mining on Python packages to discover their relationships; 
-Use Programming Community Detection to discover language popularity evovling over years;
-Use Topic modeling to find dominant programming problems.
+Use Apriori algorithm to mine Frequent Patterns on the Python package entities to discover their relationships; 
+Use Community Detection to discover language popularity evolvement over years;
+Use Topic modeling to find dominant programming problems users are having.
 Source Data at https://www.kaggle.com/stackoverflow/stackoverflow
