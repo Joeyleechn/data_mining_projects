@@ -1,5 +1,7 @@
 # data_mining_projects
 
+Data Mining Projects
+
 1. StackOverflow_data_analysis
 
 Use Apriori algorithm to mine Frequent Patterns on the Python package entities to discover their relationships; 
